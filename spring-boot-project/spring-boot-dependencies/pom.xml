@@ -162,7 +162,7 @@
 		<spring-batch.version>4.1.0.RC1</spring-batch.version>
 		<spring-cloud-connectors.version>2.0.3.RELEASE</spring-cloud-connectors.version>
 		<spring-data-releasetrain.version>Lovelace-RELEASE</spring-data-releasetrain.version>
-		<spring-framework.version>${spring.version}</spring-framework.version>
+		<spring-framework.version>6.2.11</spring-framework.version>
 		<spring-hateoas.version>0.25.0.RELEASE</spring-hateoas.version>
 		<spring-integration.version>5.1.0.RC1</spring-integration.version>
 		<spring-kafka.version>2.2.0.RC1</spring-kafka.version>
@@ -172,7 +172,7 @@
 		<spring-retry.version>1.2.2.RELEASE</spring-retry.version>
 		<spring-security.version>5.1.0.RELEASE</spring-security.version>
 		<spring-session-bom.version>Bean-RC1</spring-session-bom.version>
-		<spring-ws.version>3.0.4.RELEASE</spring-ws.version>
+		<spring-ws.version>4.0.12</spring-ws.version>
 		<sqlite-jdbc.version>3.23.1</sqlite-jdbc.version>
 		<statsd-client.version>3.1.0</statsd-client.version>
 		<sun-mail.version>${javax-mail.version}</sun-mail.version>
